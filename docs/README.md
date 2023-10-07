@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Martina Pepiciello's machine learning portfolio
 A collection of machine learning projects in Jupyter Notebooks
 \
